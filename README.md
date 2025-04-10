@@ -1,2 +1,2 @@
-# DataScinceToolsFinalAssignment
-this is the final assignment for my data scince program 
+# DataScienceFinalAssignment
+this is the final assignments for my data science program 
